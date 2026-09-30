@@ -24,6 +24,7 @@ p {
 nav {
     background-color: palegreen;
     color: white;
+    text-decoration: none;
     padding: 15px;
     text-align: center;
 }
